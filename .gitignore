@@ -1,0 +1,5 @@
+##########################
+#  Ignore checkpoints file
+##########################
+.ipynb_checkpoints
+
